@@ -1,0 +1,26 @@
+input dataset directory
+should be of the structure
+mossignatures/
+    testset/
+        references/
+            01/
+            02/
+            ...
+        queries/
+            forgery/
+                01/
+                02/
+                ...
+            original/
+                01/
+                02/
+                ...
+    trainingset/
+        forgery/
+            01/
+            02/
+            ...
+        original/
+            01/
+            o2/
+            ...
